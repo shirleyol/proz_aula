@@ -1,0 +1,42 @@
+.home-header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px; ;
+}
+
+.home_header_navbar{
+    display: flex;
+    gap: 10;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(16, 39, 138);
+    text-align: center;
+    padding: 40px;
+}
+
+.home-header2{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px; ;
+}
+
+.home_header_navbar2{
+    display: flex;
+    gap: 10;
+    padding: 20px;
+    ;
+}
+
+h2{
+    padding: 40px; ;
+}
+P{
+    padding: 20PX;
+    text-align: justify;
+}
+
+
