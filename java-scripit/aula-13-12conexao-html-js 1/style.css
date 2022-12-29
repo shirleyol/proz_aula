@@ -1,0 +1,87 @@
+
+
+body {
+  padding: 0 20vw
+ 
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  border: 2px solid #212121;
+  text-decoration: none;
+  background: #f38b04;
+}
+main{
+  color: aliceblue;
+}
+
+header ul {
+  display: flex;
+  gap: 2rem;
+  list-style-type: none;
+  
+
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+  
+ 
+
+}
+.lista_redes{
+  list-style-type: none;
+
+}
+
+aside {
+  float: right;
+  border: 2px solid #212121;
+}
+main{
+
+  background-color: blueviolet;
+}
+
+#posts {
+  padding-top: 50px;
+  max-width: 720px;
+  background-color: #f38b04;
+  border: none;
+
+ 
+}
+
+.lista_redes{
+  display: block;
+  border-radius: 30px;
+}
+
+.post {
+  
+  border: 2px solid #3D3D3D;
+  padding: 0 .5rem;
+  margin-bottom: 1rem;
+}
+
+form {
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  border: 2px solid #212121;
+  background-color: #f38b04;
+}
+footer ul {
+  list-style-type: none;
+}
